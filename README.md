@@ -1,4 +1,4 @@
 # AR-tale
 AR игра на Unity (3D). Часто ли вы думали, что бы произошло, если бы Красная Шапочка не сказала волку куда идет? А Золушка осталась бы на балу? Белоснежка не съела бы яблоко? Каждое действие имеет последствия, и теперь, вы на месте главных героев можете принимать ключевые решения, меняя их судьбу.
 
-![image](https://drive.google.com/drive/folders/12zpp47fPEf0ikfY3-bzjXo2aCHFr5vba)
+![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
