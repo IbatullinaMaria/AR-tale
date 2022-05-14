@@ -3,8 +3,11 @@ AR игра на Unity (3D). Часто ли вы думали, что бы пр
 
 <div "display=flex">
   <img src="https://drive.google.com/uc?export=view&id=1ILEeSph6uJ2sxsltVi8R3FV3pVvyg40i" width="200" height="auto">
-  <img src="https://drive.google.com/uc?export=view&id=1ILEeSph6uJ2sxsltVi8R3FV3pVvyg40i" width="200" height="auto">
+  <img src="https://drive.google.com/uc?export=view&id=1DwKZVK9JwRcDRXmJ7sPPHCgmBZOwe7gy" width="200" height="auto">
 </div>
 
-<img src="https://drive.google.com/uc?export=view&id=1ILEeSph6uJ2sxsltVi8R3FV3pVvyg40i" width="200" height="auto">
-<img src="https://drive.google.com/uc?export=view&id=1ILEeSph6uJ2sxsltVi8R3FV3pVvyg40i" width="200" height="auto">
+<div "display=flex">
+  <img src="https://drive.google.com/uc?export=view&id=1uDlrA6FIRTmdLnGD-FZEN9mvxqruaakD" width="200" height="auto">
+  <img src="https://drive.google.com/uc?export=view&id=13AH-qYaRysp9Vet3L0iLeqUBplcJrhEE" width="200" height="auto">
+</div>
+
